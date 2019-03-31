@@ -1,0 +1,353 @@
+09:17:46 [Info] Discord: Discord.Net v2.0.1 (API v6)
+09:17:47 [Verbose] Rest: GET voice/regions: 960.2 ms
+09:17:48 [Info] Gateway: Connecting
+09:17:48 [Verbose] Rest: GET gateway: 45.48 ms
+09:17:50 [Info] Gateway: Connected
+09:17:50 [Verbose] Gateway: Connected to discord bot development
+09:17:51 [Info] Gateway: Ready
+09:17:58 [Verbose] Rest: POST channels/424548019120373772/messages: 396.37 ms
+09:19:14 [Verbose] Rest: POST channels/424548019120373772/messages: 318.57 ms
+09:19:31 [Verbose] Rest: POST channels/424548019120373772/messages: 348 ms
+09:19:31 [Verbose] Command: Executed "help" for BuyMyMojo#0308 in discord bot development/general
+09:20:15 [Verbose] Rest: POST channels/424548019120373772/messages: 364.28 ms
+09:20:15 [Verbose] Command: Executed "help" for BuyMyMojo#0308 in discord bot development/general
+09:20:24 [Verbose] Rest: POST channels/424548019120373772/messages: 378.09 ms
+09:20:24 [Verbose] Command: Executed "say" for BuyMyMojo#0308 in discord bot development/general
+09:22:49 [Info] Discord: Discord.Net v2.0.1 (API v6)
+09:22:50 [Verbose] Rest: GET voice/regions: 932.33 ms
+09:22:51 [Info] Gateway: Connecting
+09:22:51 [Verbose] Rest: GET gateway: 45 ms
+09:22:53 [Info] Gateway: Connected
+09:22:53 [Verbose] Gateway: Connected to discord bot development
+09:22:53 [Info] Gateway: Ready
+09:24:39 [Warning] Gateway: System.Exception: WebSocket connection was closed ---> Discord.Net.WebSocketClosedException: The server sent close 1000: ""
+   at Discord.Net.WebSockets.DefaultWebSocketClient.RunAsync(CancellationToken cancelToken)
+   --- End of inner exception stack trace ---
+   at Discord.ConnectionManager.<>c__DisplayClass29_0.<<StartAsync>b__0>d.MoveNext()
+09:24:39 [Info] Gateway: Disconnecting
+09:24:39 [Verbose] Gateway: Disconnected from discord bot development
+09:24:39 [Info] Gateway: Disconnected
+09:24:39 [Verbose] Rest: POST channels/424548019120373772/messages: 380.35 ms
+09:24:40 [Verbose] Command: Executed "help" for BuyMyMojo#0308 in discord bot development/general
+09:24:40 [Info] Gateway: Connecting
+09:24:40 [Verbose] Rest: GET gateway: 59.2 ms
+09:24:41 [Info] Gateway: Connected
+09:26:12 [Warning] Gateway: A GuildAvailable handler is blocking the gateway task.
+09:26:12 [Info] Gateway: Resumed previous session
+09:26:12 [Warning] Gateway: System.Exception: WebSocket connection was closed ---> Discord.Net.WebSocketClosedException: The server sent close 1000: ""
+   at Discord.Net.WebSockets.DefaultWebSocketClient.RunAsync(CancellationToken cancelToken)
+   --- End of inner exception stack trace ---
+   at Discord.ConnectionManager.<>c__DisplayClass29_0.<<StartAsync>b__0>d.MoveNext()
+09:26:12 [Info] Gateway: Disconnecting
+09:26:12 [Verbose] Gateway: Disconnected from discord bot development
+09:26:12 [Info] Gateway: Disconnected
+09:26:13 [Info] Gateway: Connecting
+09:26:13 [Verbose] Rest: GET gateway: 34.67 ms
+09:26:13 [Verbose] Gateway: Connected to discord bot development
+09:26:13 [Info] Gateway: Resumed previous session
+09:26:13 [Info] Gateway: Connected
+09:27:52 [Warning] Gateway: System.Exception: Server missed last heartbeat
+   at Discord.ConnectionManager.<>c__DisplayClass29_0.<<StartAsync>b__0>d.MoveNext()
+09:28:21 [Info] Gateway: Disconnecting
+09:28:56 [Verbose] Rest: POST channels/424548019120373772/messages: 17266.56 ms
+09:29:05 [Verbose] Command: Executed "say" for BuyMyMojo#0308 in discord bot development/general
+09:29:05 [Warning] Gateway: A MessageReceived handler is blocking the gateway task.
+09:33:30 [Info] Discord: Discord.Net v2.0.1 (API v6)
+09:33:32 [Verbose] Rest: GET voice/regions: 1621.43 ms
+09:33:32 [Info] Gateway: Connecting
+09:33:33 [Verbose] Rest: GET gateway: 47.12 ms
+09:33:34 [Info] Gateway: Connected
+09:33:34 [Verbose] Gateway: Connected to discord bot development
+09:33:35 [Info] Gateway: Ready
+09:33:55 [Warning] Gateway: A MessageReceived handler is blocking the gateway task.
+09:33:56 [Verbose] Rest: POST channels/424548019120373772/messages: 375.92 ms
+09:33:56 [Verbose] Command: Executed "help" for BuyMyMojo#0308 in discord bot development/general
+09:34:10 [Verbose] Rest: POST channels/424548019120373772/messages: 294.3 ms
+09:34:10 [Verbose] Command: Executed "help" for BuyMyMojo#0308 in discord bot development/general
+09:34:20 [Verbose] Rest: POST channels/424548019120373772/messages: 360.38 ms
+09:34:20 [Verbose] Command: Executed "help" for BuyMyMojo#0308 in discord bot development/general
+09:34:36 [Verbose] Rest: POST channels/424548019120373772/messages: 300.02 ms
+09:34:36 [Verbose] Command: Executed "Streaks" for BuyMyMojo#0308 in discord bot development/general
+09:42:26 [Info] Discord: Discord.Net v2.0.1 (API v6)
+09:42:28 [Verbose] Rest: GET voice/regions: 1644.95 ms
+09:42:29 [Info] Gateway: Connecting
+09:42:29 [Verbose] Rest: GET gateway: 86.37 ms
+09:42:32 [Info] Gateway: Connected
+09:42:32 [Verbose] Gateway: Connected to discord bot development
+09:42:33 [Info] Gateway: Ready
+09:42:35 [Verbose] Rest: POST channels/424548019120373772/messages: 360.25 ms
+09:42:42 [Verbose] Rest: POST channels/424548019120373772/messages: 350.14 ms
+09:42:51 [Verbose] Rest: POST channels/424548019120373772/messages: 333.19 ms
+09:42:57 [Verbose] Rest: POST channels/424548019120373772/messages: 294.01 ms
+09:43:09 [Verbose] Rest: POST channels/424548019120373772/messages: 313.64 ms
+09:43:47 [Info] Discord: Discord.Net v2.0.1 (API v6)
+09:43:49 [Verbose] Rest: GET voice/regions: 1220.62 ms
+09:43:49 [Info] Gateway: Connecting
+09:43:49 [Verbose] Rest: GET gateway: 82.8 ms
+09:43:51 [Info] Gateway: Connected
+09:43:51 [Verbose] Gateway: Connected to discord bot development
+09:43:51 [Info] Gateway: Ready
+09:43:56 [Verbose] Rest: POST channels/424548019120373772/messages: 307.75 ms
+09:48:02 [Info] Discord: Discord.Net v2.0.1 (API v6)
+09:48:03 [Verbose] Rest: GET voice/regions: 1077.15 ms
+09:48:04 [Info] Gateway: Connecting
+09:48:04 [Verbose] Rest: GET gateway: 69.4 ms
+09:48:06 [Info] Gateway: Connected
+09:48:07 [Verbose] Gateway: Connected to discord bot development
+09:48:07 [Info] Gateway: Ready
+09:48:09 [Verbose] Command: Executed "Streaks" for BuyMyMojo#0308 in discord bot development/general
+09:49:02 [Verbose] Rest: POST channels/424548019120373772/messages: 459.3 ms
+09:49:14 [Verbose] Command: Executed "Streaks" for BuyMyMojo#0308 in discord bot development/general
+09:57:02 [Info] Discord: Discord.Net v2.0.1 (API v6)
+09:57:03 [Verbose] Rest: GET voice/regions: 1262.45 ms
+09:57:04 [Info] Gateway: Connecting
+09:57:04 [Verbose] Rest: GET gateway: 106.42 ms
+09:57:06 [Info] Gateway: Connected
+09:57:06 [Verbose] Gateway: Connected to discord bot development
+09:57:07 [Info] Gateway: Ready
+09:57:12 [Verbose] Rest: POST channels/424548019120373772/messages: 357.13 ms
+09:57:18 [Verbose] Command: Executed "Streaks" for BuyMyMojo#0308 in discord bot development/general
+09:58:45 [Info] Discord: Discord.Net v2.0.1 (API v6)
+09:58:47 [Verbose] Rest: GET voice/regions: 1093.24 ms
+09:58:47 [Info] Gateway: Connecting
+09:58:47 [Verbose] Rest: GET gateway: 79.64 ms
+09:58:49 [Info] Gateway: Connected
+09:58:49 [Verbose] Gateway: Connected to discord bot development
+09:58:50 [Info] Gateway: Ready
+09:58:52 [Verbose] Command: Executed "Streaks" for BuyMyMojo#0308 in discord bot development/general
+10:00:30 [Info] Discord: Discord.Net v2.0.1 (API v6)
+10:00:32 [Verbose] Rest: GET voice/regions: 1546.67 ms
+10:00:33 [Info] Gateway: Connecting
+10:00:33 [Verbose] Rest: GET gateway: 59.16 ms
+10:00:35 [Info] Gateway: Connected
+10:00:35 [Verbose] Gateway: Connected to discord bot development
+10:00:36 [Info] Gateway: Ready
+10:00:38 [Verbose] Command: Executed "Streaks" for BuyMyMojo#0308 in discord bot development/general
+10:05:16 [Info] Discord: Discord.Net v2.0.1 (API v6)
+10:05:17 [Verbose] Rest: GET voice/regions: 766.36 ms
+10:05:17 [Info] Gateway: Connecting
+10:05:17 [Verbose] Rest: GET gateway: 39.43 ms
+10:05:20 [Info] Gateway: Connected
+10:05:20 [Verbose] Gateway: Connected to discord bot development
+10:05:21 [Info] Gateway: Ready
+10:05:22 [Verbose] Command: Executed "Streaks" for BuyMyMojo#0308 in discord bot development/general
+10:07:52 [Info] Discord: Discord.Net v2.0.1 (API v6)
+10:07:53 [Verbose] Rest: GET voice/regions: 910.32 ms
+10:07:54 [Info] Gateway: Connecting
+10:07:54 [Verbose] Rest: GET gateway: 76.44 ms
+10:07:55 [Info] Gateway: Connected
+10:07:55 [Verbose] Gateway: Connected to discord bot development
+10:07:56 [Info] Gateway: Ready
+10:08:00 [Verbose] Rest: POST channels/424548019120373772/messages: 314.68 ms
+10:08:01 [Verbose] Command: Executed "say" for BuyMyMojo#0308 in discord bot development/general
+10:33:07 [Info] Discord: Discord.Net v2.0.1 (API v6)
+10:33:08 [Verbose] Rest: GET voice/regions: 1012.48 ms
+10:33:09 [Info] Gateway: Connecting
+10:33:09 [Verbose] Rest: GET gateway: 39.42 ms
+10:33:10 [Info] Gateway: Connected
+10:33:10 [Verbose] Gateway: Connected to discord bot development
+10:33:11 [Info] Gateway: Ready
+10:33:13 [Verbose] Rest: POST channels/424548019120373772/messages: 362.89 ms
+10:33:23 [Verbose] Rest: POST channels/424548019120373772/messages: 294.57 ms
+10:34:32 [Info] Discord: Discord.Net v2.0.1 (API v6)
+10:34:33 [Verbose] Rest: GET voice/regions: 958.21 ms
+10:34:33 [Info] Gateway: Connecting
+10:34:33 [Verbose] Rest: GET gateway: 38.17 ms
+10:34:35 [Info] Gateway: Connected
+10:34:35 [Verbose] Gateway: Connected to discord bot development
+10:34:35 [Info] Gateway: Ready
+10:34:38 [Verbose] Command: Executed "Streaks" for BuyMyMojo#0308 in discord bot development/general
+10:36:04 [Info] Discord: Discord.Net v2.0.1 (API v6)
+10:36:05 [Verbose] Rest: GET voice/regions: 792.7 ms
+10:36:05 [Info] Gateway: Connecting
+10:36:05 [Verbose] Rest: GET gateway: 41.79 ms
+10:36:07 [Info] Gateway: Connected
+10:36:07 [Verbose] Gateway: Connected to discord bot development
+10:36:07 [Info] Gateway: Ready
+10:36:08 [Verbose] Command: Executed "Streaks" for BuyMyMojo#0308 in discord bot development/general
+10:36:44 [Verbose] Rest: POST channels/424548019120373772/messages: 437.27 ms
+10:36:44 [Verbose] Command: Executed "help" for BuyMyMojo#0308 in discord bot development/general
+10:46:12 [Info] Discord: Discord.Net v2.0.1 (API v6)
+10:46:14 [Verbose] Rest: GET voice/regions: 1588.98 ms
+10:46:15 [Info] Gateway: Connecting
+10:46:15 [Verbose] Rest: GET gateway: 60.4 ms
+10:46:17 [Info] Gateway: Connected
+10:46:17 [Verbose] Gateway: Connected to discord bot development
+10:46:18 [Info] Gateway: Ready
+10:46:22 [Verbose] Command: Executed "Streaks" for BuyMyMojo#0308 in discord bot development/general
+10:49:46 [Info] Discord: Discord.Net v2.0.1 (API v6)
+10:49:47 [Verbose] Rest: GET voice/regions: 1017.72 ms
+10:49:48 [Info] Gateway: Connecting
+10:49:48 [Verbose] Rest: GET gateway: 40.34 ms
+10:49:50 [Info] Gateway: Connected
+10:49:50 [Verbose] Gateway: Connected to discord bot development
+10:49:50 [Info] Gateway: Ready
+10:49:57 [Verbose] Command: Executed "Streaks" for BuyMyMojo#0308 in discord bot development/general
+10:50:12 [Info] Discord: Discord.Net v2.0.1 (API v6)
+10:50:13 [Verbose] Rest: GET voice/regions: 987.38 ms
+10:50:13 [Info] Gateway: Connecting
+10:50:13 [Verbose] Rest: GET gateway: 51.79 ms
+10:50:15 [Info] Gateway: Connected
+10:50:15 [Verbose] Gateway: Connected to discord bot development
+10:50:15 [Info] Gateway: Ready
+10:50:23 [Verbose] Command: Executed "Streaks" for BuyMyMojo#0308 in discord bot development/general
+10:51:17 [Info] Discord: Discord.Net v2.0.1 (API v6)
+10:51:18 [Verbose] Rest: GET voice/regions: 1087.08 ms
+10:51:19 [Info] Gateway: Connecting
+10:51:19 [Verbose] Rest: GET gateway: 63.71 ms
+10:51:21 [Info] Gateway: Connected
+10:51:21 [Verbose] Gateway: Connected to discord bot development
+10:51:21 [Info] Gateway: Ready
+10:51:26 [Verbose] Command: Executed "Streaks" for BuyMyMojo#0308 in discord bot development/general
+10:52:11 [Info] Discord: Discord.Net v2.0.1 (API v6)
+10:52:12 [Verbose] Rest: GET voice/regions: 1333.51 ms
+10:52:13 [Info] Gateway: Connecting
+10:52:13 [Verbose] Rest: GET gateway: 44.25 ms
+10:52:14 [Info] Gateway: Connected
+10:52:14 [Verbose] Gateway: Connected to discord bot development
+10:52:15 [Info] Gateway: Ready
+10:52:17 [Verbose] Command: Executed "Streaks" for BuyMyMojo#0308 in discord bot development/general
+11:32:07 [Info] Discord: Discord.Net v2.0.1 (API v6)
+11:32:08 [Verbose] Rest: GET voice/regions: 746.67 ms
+11:32:08 [Info] Gateway: Connecting
+11:32:08 [Verbose] Rest: GET gateway: 41.92 ms
+11:32:09 [Info] Gateway: Connected
+11:32:10 [Verbose] Gateway: Connected to discord bot development
+11:32:10 [Info] Gateway: Ready
+11:32:16 [Verbose] Command: Executed "Streaks" for BuyMyMojo#0308 in discord bot development/general
+11:33:28 [Verbose] Command: Executed "Streaks" for BuyMyMojo#0308 in discord bot development/general
+11:34:54 [Info] Discord: Discord.Net v2.0.1 (API v6)
+11:34:56 [Verbose] Rest: GET voice/regions: 1160.23 ms
+11:34:56 [Info] Gateway: Connecting
+11:34:56 [Verbose] Rest: GET gateway: 40.21 ms
+11:34:58 [Info] Gateway: Connected
+11:34:58 [Verbose] Gateway: Connected to discord bot development
+11:34:58 [Info] Gateway: Ready
+11:37:29 [Info] Discord: Discord.Net v2.0.1 (API v6)
+11:37:31 [Verbose] Rest: GET voice/regions: 1014 ms
+11:37:31 [Info] Gateway: Connecting
+11:37:31 [Verbose] Rest: GET gateway: 50.17 ms
+11:37:33 [Info] Gateway: Connected
+11:37:34 [Verbose] Gateway: Connected to discord bot development
+11:37:34 [Info] Gateway: Ready
+11:39:03 [Verbose] Command: Executed "Streaks" for BuyMyMojo#0308 in discord bot development/general
+12:04:30 [Info] Discord: Discord.Net v2.0.1 (API v6)
+12:04:31 [Verbose] Rest: GET voice/regions: 944.35 ms
+12:04:32 [Info] Gateway: Connecting
+12:04:32 [Verbose] Rest: GET gateway: 42.83 ms
+12:04:34 [Info] Gateway: Connected
+12:04:34 [Verbose] Gateway: Connected to discord bot development
+12:04:34 [Info] Gateway: Ready
+12:04:37 [Verbose] Command: Executed "Streaks" for BuyMyMojo#0308 in discord bot development/general
+12:09:00 [Info] Discord: Discord.Net v2.0.1 (API v6)
+12:09:01 [Verbose] Rest: GET voice/regions: 961.25 ms
+12:09:01 [Info] Gateway: Connecting
+12:09:01 [Verbose] Rest: GET gateway: 38.67 ms
+12:09:04 [Info] Gateway: Connected
+12:09:04 [Verbose] Gateway: Connected to discord bot development
+12:09:04 [Info] Gateway: Ready
+12:10:20 [Info] Discord: Discord.Net v2.0.1 (API v6)
+12:10:21 [Verbose] Rest: GET voice/regions: 1046.38 ms
+12:10:21 [Info] Gateway: Connecting
+12:10:21 [Verbose] Rest: GET gateway: 55.15 ms
+12:10:23 [Info] Gateway: Connected
+12:10:23 [Verbose] Gateway: Connected to discord bot development
+12:10:23 [Info] Gateway: Ready
+12:10:26 [Verbose] Command: Executed "Streaks" for BuyMyMojo#0308 in discord bot development/general
+12:18:23 [Info] Discord: Discord.Net v2.0.1 (API v6)
+12:18:24 [Verbose] Rest: GET voice/regions: 787.7 ms
+12:18:25 [Info] Gateway: Connecting
+12:18:25 [Verbose] Rest: GET gateway: 48.72 ms
+12:18:26 [Info] Gateway: Connected
+12:18:26 [Verbose] Gateway: Connected to discord bot development
+12:18:27 [Info] Gateway: Ready
+12:18:31 [Verbose] Command: Executed "Streaks" for BuyMyMojo#0308 in discord bot development/general
+12:18:31 [Verbose] Rest: POST channels/424548019120373772/messages: 460.42 ms
+12:18:39 [Verbose] Command: Executed "Streaks" for BuyMyMojo#0308 in discord bot development/general
+12:18:39 [Verbose] Rest: POST channels/424548019120373772/messages: 314.44 ms
+12:18:52 [Verbose] Command: Executed "Streaks" for BuyMyMojo#0308 in discord bot development/general
+12:18:53 [Verbose] Rest: POST channels/424548019120373772/messages: 302.61 ms
+12:18:58 [Verbose] Command: Executed "Streaks" for BuyMyMojo#0308 in discord bot development/general
+12:18:58 [Verbose] Rest: POST channels/424548019120373772/messages: 376.67 ms
+12:19:03 [Verbose] Command: Executed "Streaks" for BuyMyMojo#0308 in discord bot development/general
+12:19:03 [Verbose] Rest: POST channels/424548019120373772/messages: 292.14 ms
+12:23:29 [Info] Discord: Discord.Net v2.0.1 (API v6)
+12:23:30 [Verbose] Rest: GET voice/regions: 786.07 ms
+12:23:31 [Info] Gateway: Connecting
+12:23:31 [Verbose] Rest: GET gateway: 48.45 ms
+12:23:32 [Info] Gateway: Connected
+12:23:33 [Verbose] Gateway: Connected to discord bot development
+12:23:33 [Info] Gateway: Ready
+12:23:36 [Verbose] Command: Executed "Streaks" for BuyMyMojo#0308 in discord bot development/general
+12:23:36 [Verbose] Rest: POST channels/424548019120373772/messages: 352.23 ms
+12:23:38 [Verbose] Command: Executed "Streaks" for BuyMyMojo#0308 in discord bot development/general
+12:23:39 [Verbose] Rest: POST channels/424548019120373772/messages: 300.27 ms
+12:23:40 [Verbose] Command: Executed "Streaks" for BuyMyMojo#0308 in discord bot development/general
+12:23:40 [Verbose] Rest: POST channels/424548019120373772/messages: 284.24 ms
+12:23:45 [Verbose] Command: Executed "DeleteStreaks" for BuyMyMojo#0308 in discord bot development/general
+12:23:45 [Verbose] Rest: POST channels/424548019120373772/messages: 360.22 ms
+12:23:48 [Verbose] Command: Executed "Streaks" for BuyMyMojo#0308 in discord bot development/general
+12:23:48 [Verbose] Rest: POST channels/424548019120373772/messages: 305.78 ms
+12:35:56 [Info] Discord: Discord.Net v2.0.1 (API v6)
+12:35:57 [Verbose] Rest: GET voice/regions: 960.15 ms
+12:35:57 [Info] Gateway: Connecting
+12:35:57 [Verbose] Rest: GET gateway: 37.57 ms
+12:35:59 [Info] Gateway: Connected
+12:35:59 [Verbose] Gateway: Connected to discord bot development
+12:35:59 [Info] Gateway: Ready
+12:36:00 [Verbose] Command: Executed "Streaks" for BuyMyMojo#0308 in discord bot development/general
+12:36:01 [Verbose] Rest: POST channels/424548019120373772/messages: 581.18 ms
+12:36:03 [Verbose] Command: Executed "Streaks" for BuyMyMojo#0308 in discord bot development/general
+12:36:04 [Verbose] Rest: POST channels/424548019120373772/messages: 330.05 ms
+12:36:06 [Verbose] Command: Executed "CheckStreaks" for BuyMyMojo#0308 in discord bot development/general
+12:36:06 [Verbose] Rest: POST channels/424548019120373772/messages: 304.7 ms
+12:37:57 [Info] Discord: Discord.Net v2.0.1 (API v6)
+12:37:58 [Verbose] Rest: GET voice/regions: 849.68 ms
+12:37:59 [Info] Gateway: Connecting
+12:37:59 [Verbose] Rest: GET gateway: 37.68 ms
+12:38:01 [Info] Gateway: Connected
+12:38:01 [Verbose] Gateway: Connected to discord bot development
+12:38:01 [Info] Gateway: Ready
+12:38:04 [Error] Command: Discord.Commands.CommandException: Error occurred executing "CheckStreaks" for BuyMyMojo#0308 in discord bot development/general. ---> System.IO.FileNotFoundException: Could not find file 'C:\Users\hello\source\repos\DiscordStreaks\DiscordStreaks\bin\Debug\netcoreapp2.2\json\BuyMyMojo#0308-discord bot development.json'.
+   at System.IO.FileStream.ValidateFileHandle(SafeFileHandle fileHandle)
+   at System.IO.FileStream.CreateFileOpenHandle(FileMode mode, FileShare share, FileOptions options)
+   at System.IO.FileStream..ctor(String path, FileMode mode, FileAccess access, FileShare share, Int32 bufferSize, FileOptions options)
+   at System.IO.StreamReader..ctor(String path, Encoding encoding, Boolean detectEncodingFromByteOrderMarks, Int32 bufferSize)
+   at System.IO.StreamReader..ctor(String path, Encoding encoding, Boolean detectEncodingFromByteOrderMarks)
+   at System.IO.File.InternalReadAllText(String path, Encoding encoding)
+   at System.IO.File.ReadAllText(String path)
+   at DiscorsStreaks.Modules.StreaksModule.CheckStreaks() in C:\Users\hello\source\repos\DiscordStreaks\DiscordStreaks\Modules\StreaksModule.cs:line 103
+   at Discord.Commands.ModuleClassBuilder.<>c__DisplayClass6_0.<<BuildCommand>g__ExecuteCallback|0>d.MoveNext()
+--- End of stack trace from previous location where exception was thrown ---
+   at Discord.Commands.CommandInfo.ExecuteInternalAsync(ICommandContext context, Object[] args, IServiceProvider services)
+   --- End of inner exception stack trace ---
+12:38:04 [Verbose] Command: Executed "CheckStreaks" for BuyMyMojo#0308 in discord bot development/general
+12:38:12 [Verbose] Command: Executed "Streaks" for BuyMyMojo#0308 in discord bot development/general
+12:38:12 [Verbose] Rest: POST channels/424548019120373772/messages: 339.87 ms
+12:43:32 [Info] Discord: Discord.Net v2.0.1 (API v6)
+12:43:33 [Verbose] Rest: GET voice/regions: 1209.92 ms
+12:43:34 [Info] Gateway: Connecting
+12:43:34 [Verbose] Rest: GET gateway: 44.82 ms
+12:43:36 [Info] Gateway: Connected
+12:43:36 [Verbose] Gateway: Connected to discord bot development
+12:43:36 [Info] Gateway: Ready
+12:43:41 [Verbose] Rest: POST channels/424548019120373772/messages: 326.9 ms
+12:43:41 [Verbose] Command: Executed "help" for BuyMyMojo#0308 in discord bot development/general
+12:50:34 [Info] Discord: Discord.Net v2.0.1 (API v6)
+12:50:35 [Verbose] Rest: GET voice/regions: 777.94 ms
+12:50:36 [Info] Gateway: Connecting
+12:50:36 [Verbose] Rest: GET gateway: 40.62 ms
+12:50:37 [Info] Gateway: Connected
+12:50:37 [Verbose] Gateway: Connected to discord bot development
+12:50:38 [Info] Gateway: Ready
+12:50:45 [Verbose] Rest: POST channels/424548019120373772/messages: 355.29 ms
+12:50:45 [Verbose] Command: Executed "Version" for BuyMyMojo#0308 in discord bot development/general
+12:59:42 [Info] Discord: Discord.Net v2.0.1 (API v6)
+12:59:44 [Verbose] Rest: GET voice/regions: 2050.27 ms
+12:59:44 [Info] Gateway: Connecting
+12:59:44 [Verbose] Rest: GET gateway: 37.35 ms
+12:59:46 [Info] Gateway: Connected
+12:59:46 [Verbose] Gateway: Connected to discord bot development
+12:59:46 [Info] Gateway: Ready
+12:59:52 [Verbose] Rest: POST channels/424548019120373772/messages: 437.86 ms
+12:59:52 [Verbose] Command: Executed "Details" for BuyMyMojo#0308 in discord bot development/general
