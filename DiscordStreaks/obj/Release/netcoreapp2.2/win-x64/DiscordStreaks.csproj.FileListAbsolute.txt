@@ -1,0 +1,16 @@
+C:\Users\hello\source\repos\DiscordStreaks\DiscordStreaks\bin\Release\netcoreapp2.2\win-x64\DiscordStreaks.exe
+C:\Users\hello\source\repos\DiscordStreaks\DiscordStreaks\bin\Release\netcoreapp2.2\win-x64\DiscordStreaks.deps.json
+C:\Users\hello\source\repos\DiscordStreaks\DiscordStreaks\bin\Release\netcoreapp2.2\win-x64\DiscordStreaks.runtimeconfig.json
+C:\Users\hello\source\repos\DiscordStreaks\DiscordStreaks\bin\Release\netcoreapp2.2\win-x64\DiscordStreaks.runtimeconfig.dev.json
+C:\Users\hello\source\repos\DiscordStreaks\DiscordStreaks\bin\Release\netcoreapp2.2\win-x64\DiscordStreaks.dll
+C:\Users\hello\source\repos\DiscordStreaks\DiscordStreaks\bin\Release\netcoreapp2.2\win-x64\DiscordStreaks.pdb
+C:\Users\hello\source\repos\DiscordStreaks\DiscordStreaks\obj\Release\netcoreapp2.2\win-x64\DiscordStreaks.csprojAssemblyReference.cache
+C:\Users\hello\source\repos\DiscordStreaks\DiscordStreaks\obj\Release\netcoreapp2.2\win-x64\DiscordStreaks.csproj.CoreCompileInputs.cache
+C:\Users\hello\source\repos\DiscordStreaks\DiscordStreaks\obj\Release\netcoreapp2.2\win-x64\DiscordStreaks.AssemblyInfoInputs.cache
+C:\Users\hello\source\repos\DiscordStreaks\DiscordStreaks\obj\Release\netcoreapp2.2\win-x64\DiscordStreaks.AssemblyInfo.cs
+C:\Users\hello\source\repos\DiscordStreaks\DiscordStreaks\obj\Release\netcoreapp2.2\win-x64\DiscordStreaks.dll
+C:\Users\hello\source\repos\DiscordStreaks\DiscordStreaks\obj\Release\netcoreapp2.2\win-x64\DiscordStreaks.pdb
+C:\Users\hello\source\repos\DiscordStreaks\DiscordStreaks\bin\Release\netcoreapp2.2\win-x64\hostpolicy.dll
+C:\Users\hello\source\repos\DiscordStreaks\DiscordStreaks\bin\Release\netcoreapp2.2\win-x64\hostfxr.dll
+C:\Users\hello\source\repos\DiscordStreaks\DiscordStreaks\obj\Release\netcoreapp2.2\win-x64\DiscordStreaks.Properties.Resources.resources
+C:\Users\hello\source\repos\DiscordStreaks\DiscordStreaks\obj\Release\netcoreapp2.2\win-x64\DiscordStreaks.csproj.GenerateResource.cache

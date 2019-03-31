@@ -351,3 +351,7 @@
 12:59:46 [Info] Gateway: Ready
 12:59:52 [Verbose] Rest: POST channels/424548019120373772/messages: 437.86 ms
 12:59:52 [Verbose] Command: Executed "Details" for BuyMyMojo#0308 in discord bot development/general
+01:41:14 [Info] Discord: Discord.Net v2.0.1 (API v6)
+01:41:15 [Verbose] Rest: GET voice/regions: 1260.76 ms
+01:41:16 [Info] Gateway: Connecting
+01:41:16 [Verbose] Rest: GET gateway: 38.68 ms

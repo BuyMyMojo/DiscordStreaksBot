@@ -9,3 +9,5 @@ C:\Users\hello\source\repos\DiscordStreaks\DiscordStreaks\obj\Debug\netcoreapp2.
 C:\Users\hello\source\repos\DiscordStreaks\DiscordStreaks\obj\Debug\netcoreapp2.2\DiscordStreaks.dll
 C:\Users\hello\source\repos\DiscordStreaks\DiscordStreaks\obj\Debug\netcoreapp2.2\DiscordStreaks.pdb
 C:\Users\hello\source\repos\DiscordStreaks\DiscordStreaks\obj\Debug\netcoreapp2.2\DiscordStreaks.csprojAssemblyReference.cache
+C:\Users\hello\source\repos\DiscordStreaks\DiscordStreaks\obj\Debug\netcoreapp2.2\DiscordStreaks.Properties.Resources.resources
+C:\Users\hello\source\repos\DiscordStreaks\DiscordStreaks\obj\Debug\netcoreapp2.2\DiscordStreaks.csproj.GenerateResource.cache
