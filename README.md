@@ -1,7 +1,7 @@
 # DiscordStreaks
 this is a so so bot made to track streaks on discord like a less smart snapchat
 
-##missing file
+## missing file
 make sure to create a file called _config.yml in /DiscordStreaks and in the folder you build the project in, in this format:
 ```prefix: +!
 tokens:
